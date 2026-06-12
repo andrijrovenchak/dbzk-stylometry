@@ -46,6 +46,6 @@ The `txt/` directory contains the source texts and the artificially expanded dat
 
 This directory contains the sample SVM models trained on character bigrams. To prevent overfitting and manage data scarcity, the models were trained using a linear kernel. The subdirectories organize the models according to the proportion of the 'Other' category used during training:
 
-*   **`models64/`**: Models trained with a 66% (approx. 64% in final compilation) proportion of texts in the 'Other' category.
-*   **`models78/`**: Models trained with a 79% (approx. 78% in final compilation) proportion of texts in the 'Other' category.
-*   **`models87/`**: Models trained with an 88% (approx. 87% in final compilation) proportion of texts in the 'Other' category.
+*   **`models64/`**: Models trained targeting a 64% proportion of texts in the 'Other' category (resulting in an actual dataset proportion of ~66%)..
+*   **`models78/`**: Models trained targeting a 78% proportion of texts in the 'Other' category (resulting in an actual dataset proportion of ~79%).
+*   **`models87/`**: Models trained targeting a 87% proportion of texts in the 'Other' category (resulting in an actual dataset proportion of ~88%).
