@@ -1,1 +1,1 @@
-https://github.com/computationalstylistics/100_polish_novels
+This folder serves as an empty placeholder. The background corpus of late 19th- and early 20th-century Polish novels used to compile the negative ('Other') class must be downloaded from the external repository: [https://github.com/computationalstylistics/100_polish_novels](https://github.com/computationalstylistics/100_polish_novels).
